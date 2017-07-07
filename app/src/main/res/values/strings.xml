@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBoomMenu</string>
+    <string name="text_inside_circle_button_text_normal">inside circle</string>
+    <string name="text_outside_circle_button_text_normal">out circle</string>
+    <string name="text_ham_button_text_normal">ham button</string>
+    <string name="text_ham_button_sub_text_normal">ham button 2</string>
+</resources>
